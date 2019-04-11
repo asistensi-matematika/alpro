@@ -1,9 +1,7 @@
 Nama: 
 NRP: 
 
-## tugas 1: palindrome
-### deskripsi
-cek apakah suatu `int` adalah angka yang sama jika di reverse urutannya   
+## tugas 1:
 
 ### solusi
 link here
