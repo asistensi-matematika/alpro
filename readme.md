@@ -5,9 +5,11 @@ selamat datang, kami adalah kumpulan asisten yang paling malas diantara asisten 
 silahkan kontak via WhatsApp Group jika ada pertanyaan. 
 
 ## Laporan
+### Laporan Tulis
 Walaupun eco campus, tetapi sebagai bukti kepada dosen tetap harus ada laporannya. Silahkan edit dan print template laporan dibawah ini menyesuaikan kebutuhan tugasnya.
-[Format Laporan Tulis]()
+[Format Laporan Tulis](https://github.com/asistensi-matematika/alpro/blob/master/FORMAT_LAPORAN.docx)
 
+### Repo Submission
 Selain laporan hard copy, seluruh mahasiswa asistensi ini wajib submit ke dalam github classroom sesuai dengan tugas yang diberikan, dan memberikan 
 [Repo Submission](https://github.com/asistensi-matematika/alpro)
 - beri nama file untuk source code `nama_tugas-solution.java`
@@ -21,8 +23,8 @@ Selain laporan hard copy, seluruh mahasiswa asistensi ini wajib submit ke dalam 
 - Java IDE of your choice
   - [netbeans](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html) --> ini sudah ada jdk di dalamnya
   - [eclipse](http://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)
-  - [notepad++]()
-  - vim if you're a savage
+  - [notepad++](https://notepad-plus-plus.org/)
+  - vim *if you're a savage*
 
 **Git**
 - [sign up](https://github.com/join) for github 
@@ -31,7 +33,7 @@ Selain laporan hard copy, seluruh mahasiswa asistensi ini wajib submit ke dalam 
 **wajib membawa laptop ke kelas**
 
 ## referensi: 
-- [intro to java programming]()
+- [intro to java programming](https://github.com/asistensi-matematika/alpro/raw/master/Introduction%20to%20Java%20Programming%20(10th%20ed.)%20(Comprehensive%20Version)%20%5BLiang%202014-01-06%5D.pdf)
 - [markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)   
 - [github desktop tutorial](https://help.github.com/en/desktop)
 
