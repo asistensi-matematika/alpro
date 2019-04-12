@@ -3,6 +3,9 @@
 selamat datang, kami adalah kumpulan asisten yang paling malas diantara asisten lain jadi kami merangkum seluruh kebutuhan materi pengajaran, pembagian tugas dan penilaian pada repo ini
 
 silahkan kontak via WhatsApp Group jika ada pertanyaan. 
+## Pembahasan 
+- [week1](https://github.com/asistensi-matematika/alpro/tree/master/week1)
+
 
 ## Laporan
 ### Laporan Tulis
